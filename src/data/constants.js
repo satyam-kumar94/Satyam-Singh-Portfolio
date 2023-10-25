@@ -199,8 +199,7 @@ export const projects = [
     date: "Jun 2023 - Jul 2023",
     description:
     "Implemented features to display the current price, %change in the last 24 hours, market cap, and past performance of various cryptocurrencies.Integrated a Dummy payment gateway to simulate the process of buying cryptocurrencies.",
-    image:
-      "https://private-user-images.githubusercontent.com/109272647/277658345-d60f731f-3e78-4ff9-8e0c-2cb600c0638e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTgxNTE0MTEsIm5iZiI6MTY5ODE1MTExMSwicGF0aCI6Ii8xMDkyNzI2NDcvMjc3NjU4MzQ1LWQ2MGY3MzFmLTNlNzgtNGZmOS04ZTBjLTJjYjYwMGMwNjM4ZS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAyNFQxMjM4MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YmI1NWY1NTU1ZmY1ZGQwOGM2NGViNWY5ZjRjMDg4ZTkwYTEyNzk4OTIxYmIwOWVkMDFmNjM4NjkxZDNlNjMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.zz4CdJvKSJibrAPyC53WDx8WusrZu15gk1s37qo-KaQ",
+    image:"https://user-images.githubusercontent.com/109272647/277971510-de18b398-d000-4386-884c-d503400fe407.png",
     tags: [
       "ReactJs",
       "Material UI",
