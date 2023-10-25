@@ -217,7 +217,7 @@ export const projects = [
     title: "Quiz App",
     date: "Dec 2020 - Jan 2021",
     description:"Implemented a feature that allows users to choose from a diverse range of quiz categories to customize their quiz experience based on their interests.ntegrated multiple difficulty levels, ncluded a variety of question types, such as multiple‑choice, Implemented real‑time scoring,",
-    image:"https://private-user-images.githubusercontent.com/109272647/277891283-79ef8855-cb83-4a60-b76d-0d892857f95d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTgyMTU2NjEsIm5iZiI6MTY5ODIxNTM2MSwicGF0aCI6Ii8xMDkyNzI2NDcvMjc3ODkxMjgzLTc5ZWY4ODU1LWNiODMtNGE2MC1iNzZkLTBkODkyODU3Zjk1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAyNVQwNjI5MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMDJhNzlmNDllNjVlMDZiMjkwYmI1OTE3ODQyZDQ4YmM4ODRiNGVjMDk2MTI1YTc1OTRiNTY2N2M0ZjY5YWU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.07AnGZCWIr5LZsmEGzBBuvOz3FXf3TQw3oXk9E46Uz4",
+    image:"https://github-production-user-asset-6210df.s3.amazonaws.com/109272647/277974299-98cb4e80-feee-4c1b-a3a6-4bb62bcb68b3.png",
     tags: ["JavaScript", "ReactJs", "Material UI", "Trivia API"],
     category: "web app",
     github: "https://github.com/satyam-kumar94/Quiz-App-Reactjs",
@@ -229,8 +229,7 @@ export const projects = [
     title: "Dentelo",
     date: "Oct 2022 - Present",
     description:"Dentelo Project include - A page that lists the services you offer,A way for patients to book appointments online,Dental health content: Information about dental health",
-    image:
-      "https://private-user-images.githubusercontent.com/109272647/277676295-fb84ba3d-2f2b-44df-bbc4-3b33e2be413b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTgxNTUwNTEsIm5iZiI6MTY5ODE1NDc1MSwicGF0aCI6Ii8xMDkyNzI2NDcvMjc3Njc2Mjk1LWZiODRiYTNkLTJmMmItNDRkZi1iYmM0LTNiMzNlMmJlNDEzYi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAyNFQxMzM5MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZmZhYmRmN2NmMjRjNzQwYzRkYzM2ZTAzYTMwMGY5ZGY5ODUzZWQ0YmNjZDYxZDRkNzRlNTc3ODEwZmVkZWRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.OLzfyooQPaPAw6ajZnZUa3mCft7epKiVpuc4XS8zdIg",
+    image:"https://user-images.githubusercontent.com/109272647/277977731-1886296e-f06a-488b-aad7-db4e44d9d72a.png",
       tags: ["JavaScript", "CSS", "HTML"],
     category: "web app",
     github: "https://github.com/satyam-kumar94/Dentelo-project",
@@ -242,8 +241,7 @@ export const projects = [
     title: "Apple VisionPro Clone",
     date: "Jul 2021",
     description:"A Apple Vision Pro clone made with JavaScript, this project include lots of animation",
-    image:
-      "https://private-user-images.githubusercontent.com/109272647/277687530-766ada27-83f7-4240-9c6f-c872f57d4a27.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTgxNTY5MjIsIm5iZiI6MTY5ODE1NjYyMiwicGF0aCI6Ii8xMDkyNzI2NDcvMjc3Njg3NTMwLTc2NmFkYTI3LTgzZjctNDI0MC05YzZmLWM4NzJmNTdkNGEyNy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAyNFQxNDEwMjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMDFmMTE5MmY2ZjQwOTI4YzNiMjczMWMzOThhZGZkZjQ0YzZmN2U5MjUwMDhmNWMxNjg4NDIzNTc3MzMwMjE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GWsSXik-pskTRD3DLDHgYXIRQ1xb-RLaxvFw4GPVTQA",
+    image:"https://user-images.githubusercontent.com/109272647/277979604-78af1deb-3779-4263-b35e-6a2d0b302520.png",
     tags: ["JavaScript", "CSS", "HTML"],
     category: "web app",
     github: "https://github.com/satyam-kumar94/Apple-visionPro",
@@ -256,8 +254,7 @@ export const projects = [
     title: "Sorting Visualizar",
     date: "Jul 2021",
     description:"Visualize the sorting strategy of different algorithms like Bubble sort, Selection sort, Insertion sort, Merge sort, Shows the actual array after every iteration and also illustrates the Working of each variable swap.",
-    image:
-    "https://private-user-images.githubusercontent.com/109272647/277899903-8179f07d-1d1f-46d7-ba4a-4ab406122437.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTgyMTcxMzMsIm5iZiI6MTY5ODIxNjgzMywicGF0aCI6Ii8xMDkyNzI2NDcvMjc3ODk5OTAzLTgxNzlmMDdkLTFkMWYtNDZkNy1iYTRhLTRhYjQwNjEyMjQzNy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAyNVQwNjUzNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNjBhMDI4YTMxYjEzOTZjYzFiYWM3MjgzNDBmNjQ4NDEyMDA3OWQzMTY1ZDBjZTgyMmEzODBiNjAyYzdlNmUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.xruL_8kPiRjHVlAGbR5USMMTD57wguH72bx-oRssMYI",
+    image:"https://user-images.githubusercontent.com/109272647/277980610-df4ff26d-d7d2-462d-9d06-70808ab90ed8.png",
     tags: ["JavaScript", "CSS", "HTML"],
     category: "web app",
     github: "https://github.com/satyam-kumar94/Sorting-Visualizer-Project",
