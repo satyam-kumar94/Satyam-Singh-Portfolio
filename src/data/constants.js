@@ -198,7 +198,7 @@ export const projects = [
     title: "CryptoCurrency Stats App",
     date: "Jun 2023 - Jul 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+    "Implemented features to display the current price, %change in the last 24 hours, market cap, and past performance of various cryptocurrencies.Integrated a Dummy payment gateway to simulate the process of buying cryptocurrencies.",
     image:
       "https://private-user-images.githubusercontent.com/109272647/277658345-d60f731f-3e78-4ff9-8e0c-2cb600c0638e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTgxNTE0MTEsIm5iZiI6MTY5ODE1MTExMSwicGF0aCI6Ii8xMDkyNzI2NDcvMjc3NjU4MzQ1LWQ2MGY3MzFmLTNlNzgtNGZmOS04ZTBjLTJjYjYwMGMwNjM4ZS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAyNFQxMjM4MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YmI1NWY1NTU1ZmY1ZGQwOGM2NGViNWY5ZjRjMDg4ZTkwYTEyNzk4OTIxYmIwOWVkMDFmNjM4NjkxZDNlNjMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.zz4CdJvKSJibrAPyC53WDx8WusrZu15gk1s37qo-KaQ",
     tags: [
@@ -217,8 +217,7 @@ export const projects = [
     id: 7,
     title: "Quiz App",
     date: "Dec 2020 - Jan 2021",
-    description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
+    description:"Implemented a feature that allows users to choose from a diverse range of quiz categories to customize their quiz experience based on their interests.ntegrated multiple difficulty levels, ncluded a variety of question types, such as multiple‑choice, Implemented real‑time scoring,",
     image:"https://private-user-images.githubusercontent.com/109272647/277891283-79ef8855-cb83-4a60-b76d-0d892857f95d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTgyMTU2NjEsIm5iZiI6MTY5ODIxNTM2MSwicGF0aCI6Ii8xMDkyNzI2NDcvMjc3ODkxMjgzLTc5ZWY4ODU1LWNiODMtNGE2MC1iNzZkLTBkODkyODU3Zjk1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAyNVQwNjI5MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMDJhNzlmNDllNjVlMDZiMjkwYmI1OTE3ODQyZDQ4YmM4ODRiNGVjMDk2MTI1YTc1OTRiNTY2N2M0ZjY5YWU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.07AnGZCWIr5LZsmEGzBBuvOz3FXf3TQw3oXk9E46Uz4",
     tags: ["JavaScript", "ReactJs", "Material UI", "Trivia API"],
     category: "web app",
@@ -230,8 +229,7 @@ export const projects = [
     id: 1,
     title: "Dentelo",
     date: "Oct 2022 - Present",
-    description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+    description:"Dentelo Project include - A page that lists the services you offer,A way for patients to book appointments online,Dental health content: Information about dental health",
     image:
       "https://private-user-images.githubusercontent.com/109272647/277676295-fb84ba3d-2f2b-44df-bbc4-3b33e2be413b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTgxNTUwNTEsIm5iZiI6MTY5ODE1NDc1MSwicGF0aCI6Ii8xMDkyNzI2NDcvMjc3Njc2Mjk1LWZiODRiYTNkLTJmMmItNDRkZi1iYmM0LTNiMzNlMmJlNDEzYi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAyNFQxMzM5MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZmZhYmRmN2NmMjRjNzQwYzRkYzM2ZTAzYTMwMGY5ZGY5ODUzZWQ0YmNjZDYxZDRkNzRlNTc3ODEwZmVkZWRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.OLzfyooQPaPAw6ajZnZUa3mCft7epKiVpuc4XS8zdIg",
       tags: ["JavaScript", "CSS", "HTML"],
@@ -244,8 +242,7 @@ export const projects = [
     id: 4,
     title: "Apple VisionPro Clone",
     date: "Jul 2021",
-    description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+    description:"A Apple Vision Pro clone made with JavaScript, this project include lots of animation",
     image:
       "https://private-user-images.githubusercontent.com/109272647/277687530-766ada27-83f7-4240-9c6f-c872f57d4a27.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTgxNTY5MjIsIm5iZiI6MTY5ODE1NjYyMiwicGF0aCI6Ii8xMDkyNzI2NDcvMjc3Njg3NTMwLTc2NmFkYTI3LTgzZjctNDI0MC05YzZmLWM4NzJmNTdkNGEyNy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAyNFQxNDEwMjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMDFmMTE5MmY2ZjQwOTI4YzNiMjczMWMzOThhZGZkZjQ0YzZmN2U5MjUwMDhmNWMxNjg4NDIzNTc3MzMwMjE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.GWsSXik-pskTRD3DLDHgYXIRQ1xb-RLaxvFw4GPVTQA",
     tags: ["JavaScript", "CSS", "HTML"],
@@ -259,8 +256,7 @@ export const projects = [
     id: 5,
     title: "Sorting Visualizar",
     date: "Jul 2021",
-    description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+    description:"Visualize the sorting strategy of different algorithms like Bubble sort, Selection sort, Insertion sort, Merge sort, Shows the actual array after every iteration and also illustrates the Working of each variable swap.",
     image:
     "https://private-user-images.githubusercontent.com/109272647/277899903-8179f07d-1d1f-46d7-ba4a-4ab406122437.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTgyMTcxMzMsIm5iZiI6MTY5ODIxNjgzMywicGF0aCI6Ii8xMDkyNzI2NDcvMjc3ODk5OTAzLTgxNzlmMDdkLTFkMWYtNDZkNy1iYTRhLTRhYjQwNjEyMjQzNy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMDI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTAyNVQwNjUzNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNjBhMDI4YTMxYjEzOTZjYzFiYWM3MjgzNDBmNjQ4NDEyMDA3OWQzMTY1ZDBjZTgyMmEzODBiNjAyYzdlNmUxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.xruL_8kPiRjHVlAGbR5USMMTD57wguH72bx-oRssMYI",
     tags: ["JavaScript", "CSS", "HTML"],
