@@ -15,19 +15,19 @@ const Projects = ({openModal,setOpenModal}) => {
           I have worked on a wide range of projects. From web apps to android apps. Here are some of my projects.
         </Desc>
         <ToggleButtonGroup >
-          {toggle === 'all' ?
+          {/* {toggle === 'all' ?
             <ToggleButton active value="all" onClick={() => setToggle('all')}>Web App</ToggleButton>
             :
             <ToggleButton value="all" onClick={() => setToggle('all')}>Web App</ToggleButton>
-          }
-          <Divider />
-          {/* {toggle === 'web app' ?
+          } */}
+          {/* <Divider /> */}
+          {toggle === 'web app' ?
             <ToggleButton active value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
             :
             <ToggleButton value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
           }
-          <Divider />
-          {toggle === 'android app' ?
+          {/* <Divider /> */}
+          {/* {toggle === 'android app' ?
             <ToggleButton active value="android app" onClick={() => setToggle('android app')}>ANDROID APP'S</ToggleButton>
             :
             <ToggleButton value="android app" onClick={() => setToggle('android app')}>ANDROID APP'S</ToggleButton>
@@ -45,7 +45,7 @@ const Projects = ({openModal,setOpenModal}) => {
               <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
             ))}
           {projects
-            .filter((item) => item.category == toggle)
+            .filter((item) => item.category === toggle)
             .map((project) => (
               <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
             ))}
