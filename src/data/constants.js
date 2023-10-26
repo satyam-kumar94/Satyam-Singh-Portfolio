@@ -221,7 +221,7 @@ export const projects = [
     tags: ["JavaScript", "ReactJs", "Material UI", "Trivia API"],
     category: "web app",
     github: "https://github.com/satyam-kumar94/Quiz-App-Reactjs",
-    webapp: "",
+    webapp: "https://yourquizhub.netlify.app/",
   },  
 
   {
