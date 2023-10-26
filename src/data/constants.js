@@ -9,7 +9,7 @@ export const Bio = {
     "I Passionate about creating user-friendly and visually appealing web applications.Strong understanding of HTML, CSS, and JavaScript, as well as experience with React.js Excellent problem-solving and debugging skills.Ability to work independently,",
   github: "https://github.com/satyam-kumar94",
   leetcode:"https://leetcode.com/satyam_94/",
-  resume:"https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+  resume:"https://drive.google.com/file/d/1FUQevyAlkNzUDYV2I1rP_nyJXyBZq6AU/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/satyam-singh-2704371b7/",
   call: "9430055406",
   git:"https://github.com/satyam-kumar94",
