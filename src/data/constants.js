@@ -215,7 +215,7 @@ export const projects = [
   {
     id: 7,
     title: "Quiz App",
-    date: "Dec 2020 - Jan 2021",
+    date: "Oct 2023",
     description:"Implemented a feature that allows users to choose from a diverse range of quiz categories to customize their quiz experience based on their interests.ntegrated multiple difficulty levels, ncluded a variety of question types, such as multiple‑choice, Implemented real‑time scoring,",
     image:"https://github-production-user-asset-6210df.s3.amazonaws.com/109272647/277974299-98cb4e80-feee-4c1b-a3a6-4bb62bcb68b3.png",
     tags: ["JavaScript", "ReactJs", "Material UI", "Trivia API"],
@@ -227,7 +227,7 @@ export const projects = [
   {
     id: 1,
     title: "Dentelo",
-    date: "Oct 2022 - Present",
+    date: "Oct 2022",
     description:"Dentelo Project include - A page that lists the services you offer,A way for patients to book appointments online,Dental health content: Information about dental health",
     image:"https://user-images.githubusercontent.com/109272647/277977731-1886296e-f06a-488b-aad7-db4e44d9d72a.png",
       tags: ["JavaScript", "CSS", "HTML"],
@@ -239,7 +239,7 @@ export const projects = [
   {
     id: 4,
     title: "Apple VisionPro Clone",
-    date: "Jul 2021",
+    date: "Aug 2023",
     description:"A Apple Vision Pro clone made with JavaScript, this project include lots of animation",
     image:"https://user-images.githubusercontent.com/109272647/277979604-78af1deb-3779-4263-b35e-6a2d0b302520.png",
     tags: ["JavaScript", "CSS", "HTML"],
@@ -252,7 +252,7 @@ export const projects = [
   {
     id: 5,
     title: "Sorting Visualizar",
-    date: "Jul 2021",
+    date: "May 2022",
     description:"Visualize the sorting strategy of different algorithms like Bubble sort, Selection sort, Insertion sort, Merge sort, Shows the actual array after every iteration and also illustrates the Working of each variable swap.",
     image:"https://user-images.githubusercontent.com/109272647/277980610-df4ff26d-d7d2-462d-9d06-70808ab90ed8.png",
     tags: ["JavaScript", "CSS", "HTML"],
